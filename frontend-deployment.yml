@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: jessfraz/react:latest  # A simple prebuilt React app image
+          image: nginx:alpine  # Official NGINX image
           ports:
             - containerPort: 80 # Matches app's internal port
  
