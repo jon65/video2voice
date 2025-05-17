@@ -1,3 +1,39 @@
 dev namespace 
 
 kubectl config set-context --current --namespace=dev
+
+tut link
+https://www.youtube.com/watch?v=jHlRqQzqB_Y
+
+github link
+https://github.com/N4si/microservices-python-app
+
+identify people based on face 
+
+
+auth service
+for authentication - 
+credentials stored in postgres db
+
+to upload video
+gateway service -> log in -> upload video -> convertor service -> notification service 
+
+dockerfile for read service
+
+once cluster is ready start creating nodegroup then start deploying cluster
+
+
+aws eks update-kubeconfig --name nameofcluster --region region 
+
+LAST STOP 
+11min - how to deploy application
+
+
+
+
+Auth Service
+
+
+
+
+https://www.youtube.com/watch?v=hmkF77F9TLw&t=6424s
