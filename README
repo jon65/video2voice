@@ -2,12 +2,6 @@ dev namespace
 
 kubectl config set-context --current --namespace=dev
 
-tut link
-https://www.youtube.com/watch?v=jHlRqQzqB_Y
-
-github link
-https://github.com/N4si/microservices-python-app
-
 identify people based on face 
 
 
@@ -32,8 +26,3 @@ LAST STOP
 
 
 Auth Service
-
-
-
-
-https://www.youtube.com/watch?v=hmkF77F9TLw&t=6424s
